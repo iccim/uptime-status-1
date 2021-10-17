@@ -5,7 +5,7 @@ window.Config = {
   SiteName: '紫曦网络旗下重要网站监控',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'wzjk.izx.tools',
   ApiDomain: 'zxjk.izxy.workers.dev',
 
   // Api Keys
